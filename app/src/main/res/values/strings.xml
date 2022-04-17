@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">King of Math</string>
+    <string name="king_of_math">King of Math</string>
+    <string name="question_value">%s %s %s =</string>
+    <string name="best_score">Best score:</string>
+    <string name="score">Score:</string>
+    <string name="submit">Submit</string>
+</resources>
